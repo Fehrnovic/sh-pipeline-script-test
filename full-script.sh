@@ -24,4 +24,4 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 
 # Install to login to docker
-i.	sudo apt install gnupg2 pass -y
+sudo apt install gnupg2 pass -y
